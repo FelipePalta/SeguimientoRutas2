@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "965324614631",
+    "project_id": "seguimientoruta-4c6b9",
+    "storage_bucket": "seguimientoruta-4c6b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965324614631:android:d150af46f8da1303b92b42",
+        "android_client_info": {
+          "package_name": "com.example.seguimientorutas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiUS8Uu3poEM5iSGk9mKDtdKslnmbBKZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965324614631:android:0ba76f8f32ea7ee1b92b42",
+        "android_client_info": {
+          "package_name": "com.example.seguimientorutas2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiUS8Uu3poEM5iSGk9mKDtdKslnmbBKZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
